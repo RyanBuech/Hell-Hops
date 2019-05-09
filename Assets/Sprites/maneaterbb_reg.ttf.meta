@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: eb2ed553d04b24b4d95fa990ef2c000b
+timeCreated: 1493067620
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ManEater BB
+  fontNames:
+  - ManEater BB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 134998d43ad1b8145a464c021da08f15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

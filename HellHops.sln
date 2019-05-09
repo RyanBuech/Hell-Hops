@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellHops", "HellHops.csproj", "{DC4279C1-CAFA-65F6-9C06-ACD6A05C76EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellHops.Plugins", "HellHops.Plugins.csproj", "{CEC03D7A-CB81-8F8B-0EEB-BD1724932C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellHops.Editor", "HellHops.Editor.csproj", "{A32BE076-966D-6DB6-95EF-6DA6676BD4C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4279C1-CAFA-65F6-9C06-ACD6A05C76EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4279C1-CAFA-65F6-9C06-ACD6A05C76EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4279C1-CAFA-65F6-9C06-ACD6A05C76EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4279C1-CAFA-65F6-9C06-ACD6A05C76EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC03D7A-CB81-8F8B-0EEB-BD1724932C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC03D7A-CB81-8F8B-0EEB-BD1724932C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC03D7A-CB81-8F8B-0EEB-BD1724932C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC03D7A-CB81-8F8B-0EEB-BD1724932C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A32BE076-966D-6DB6-95EF-6DA6676BD4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32BE076-966D-6DB6-95EF-6DA6676BD4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32BE076-966D-6DB6-95EF-6DA6676BD4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32BE076-966D-6DB6-95EF-6DA6676BD4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
